@@ -149,20 +149,83 @@
         7
     </td>
     <td>
-        .
+        get character from ASCII Value
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/55ad04714f0b468e8200001c" target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/55ad04714f0b468e8200001c" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
+
+<!-- 8 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        8
+    </td>
+    <td>
+        Gravity Flip
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5f70c883e10f9e0001c89673" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/12ff2db9f7a7b63fc08b4219ae6f647e" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 9 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        9
+    </td>
+    <td>
+        Convert number to reversed array of digits
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5583090cbe83f4fd8c000051" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/8f35c03a17fa54e759d1a30387b716ee" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 10 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        10
+    </td>
+    <td>
+        Unfinished Loop - Bug Fixing #1
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55c28f7304e3eaebef0000da" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href=" " target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
 
 <!-- ? __________________________________________________________________________________________________ -->
 
@@ -174,14 +237,57 @@
         ?
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href=" " target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href=" " target="_blank">
             solution c++
         </a>
     </td>
 </tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href=" " target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href=" " target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href=" " target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href=" " target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 
