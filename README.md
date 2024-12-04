@@ -221,7 +221,196 @@
         </a>
     </td>
     <td>
-        <a href=" " target="_blank">
+        <a href="https://gist.github.com/AI-Cortex/a1e5acf9b3f1f02bd6a33f3b564e04c2" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 11 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        11
+    </td>
+    <td>
+        Swap Values
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5388f0e00b24c5635e000fc6" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/4fee6c13fc22d612034f7e0f376d777c" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 12 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        12
+    </td>
+    <td>
+        101 Dalmatians - squash the bugs, not the dogs!
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/56f6919a6b88de18ff000b36" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/216fc8eab31a0c0da69c4d7bd3a736be" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 13 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        13
+    </td>
+    <td>
+        Even or Odd
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/badc872b5c3c3d87706bc5aa7ca120ad" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 14 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        14
+    </td>
+    <td>
+        Keep Hydrated!
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/582cb0224e56e068d800003c" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/31fc5ef26b25684e1053eef992bbf5ea" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 15 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        15
+    </td>
+    <td>
+        Is it a number?
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57126304cdbf63c6770012bd" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/17bf48f62d316ff5a72b3ba42473f155" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 16 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        16
+    </td>
+    <td>
+        Miles per gallon to kilometers per liter
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/557b5e0bddf29d861400005d" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/a178cfdac0a797367733abfd3860ecf8" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 17 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        17
+    </td>
+    <td>
+        Is the string uppercase?
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/56cd44e1aa4ac7879200010b" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/c64cb656e93f96fb0c2c385992330fcb" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 18 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        18
+    </td>
+    <td>
+        Localize The Barycenter of a Triangle
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5601c5f6ba804403c7000004" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/3271a2662129eb3f88d797a97c956b70" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 19 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        19
+    </td>
+    <td>
+        They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://gist.github.com/AI-Cortex/781b1f74dd59ab002b60b42b1a336f2a" target="_blank">
             solution c++
         </a>
     </td>
@@ -237,12 +426,12 @@
         ?
     </td>
     <td>
-        <a href=" " target="_blank">
+        <a href="" target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href=" " target="_blank">
+        <a href="" target="_blank">
             solution c++
         </a>
     </td>
@@ -258,36 +447,16 @@
         ?
     </td>
     <td>
-        <a href=" " target="_blank">
+        <a href="" target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href=" " target="_blank">
+        <a href="" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
-
-<tr>
-    <td>
-        ?
-    </td>
-    <td>
-        ?
-    </td>
-    <td>
-        <a href=" " target="_blank">
-            problem
-        </a>
-    </td>
-    <td>
-        <a href=" " target="_blank">
-            solution c++
-        </a>
-    </td>
-</tr>
 
 
