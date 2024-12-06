@@ -431,7 +431,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sort%20and%20Star.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -452,7 +452,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Collinearity.cpp" target="_blank">
             solution c++
         </a>
     </td>
