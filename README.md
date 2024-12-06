@@ -29,7 +29,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/160096aae9f634c97bbb8dfe97813fd9" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sum%20without%20highest%20and%20lowest%20number.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -50,7 +50,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/01d7d61afe8ffb3492c908046d8c3587" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Count%20by%20X.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -71,7 +71,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/c222e62f2d0f7486f116f15ff3f6c491" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Lario%20and%20Muigi%20Pipe%20Problem.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -92,7 +92,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/05ebc2e65c8bdc9e96090cdae651a352" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Find%20numbers%20which%20are%20divisible%20by%20given%20number.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -113,7 +113,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/9389484395fb19adfe8ea033ea5b5421" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Multiplication%20table%20for%20number.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -135,7 +135,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/30b3a9f4ba3e5d5d4a055806e6c2aaf1" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Pole%20Vault%20Starting%20Marks.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -157,7 +157,7 @@
         </a>
     </td>
     <td>
-        <a href="https://www.codewars.com/kata/55ad04714f0b468e8200001c" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/get%20character%20from%20ASCII%20Value.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -179,7 +179,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/12ff2db9f7a7b63fc08b4219ae6f647e" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Gravity%20Flip.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -200,7 +200,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/8f35c03a17fa54e759d1a30387b716ee" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Convert%20number%20to%20reversed%20array%20of%20digits.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -221,7 +221,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/a1e5acf9b3f1f02bd6a33f3b564e04c2" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Unfinished%20Loop%20-%20Bug%20Fixing%20%231.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -242,7 +242,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/4fee6c13fc22d612034f7e0f376d777c" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Swap%20Values.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -263,7 +263,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/216fc8eab31a0c0da69c4d7bd3a736be" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/101%20Dalmatians%20-%20squash%20the%20bugs%2C%20not%20the%20dogs!.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -284,7 +284,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/badc872b5c3c3d87706bc5aa7ca120ad" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Even%20or%20Odd.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -305,7 +305,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/31fc5ef26b25684e1053eef992bbf5ea" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Keep%20Hydrated!.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -326,7 +326,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/17bf48f62d316ff5a72b3ba42473f155" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Is%20it%20a%20number.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -347,7 +347,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/a178cfdac0a797367733abfd3860ecf8" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Miles%20per%20gallon%20to%20kilometers%20per%20liter.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -368,7 +368,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/c64cb656e93f96fb0c2c385992330fcb" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Is%20the%20string%20uppercase.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -389,7 +389,7 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/3271a2662129eb3f88d797a97c956b70" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Localize%20The%20Barycenter%20of%20a%20Triangle.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -410,23 +410,44 @@
         </a>
     </td>
     <td>
-        <a href="https://gist.github.com/AI-Cortex/781b1f74dd59ab002b60b42b1a336f2a" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/They%20say%20that%20only%20the%20name%20is%20long%20enough%20to%20attract%20attention.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 20 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        20
     </td>
     <td>
-        ?
+        Sort and Star
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57cfdf34902f6ba3d300001e" target="_blank">
+            problem
+        </a>
     </td>
     <td>
         <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 21 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        21
+    </td>
+    <td>
+        Collinearity
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/65ba420888906c1f86e1e680" target="_blank">
             problem
         </a>
     </td>
@@ -458,5 +479,25 @@
     </td>
 </tr>
 
+<!-- ? __________________________________________________________________________________________________ -->
 
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
 
+<!-- ? __________________________________________________________________________________________________ -->
