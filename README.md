@@ -515,23 +515,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Points%20of%20Reflection.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 25 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        25
     </td>
     <td>
-        ?
+        Get Nth Even Number
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5933a1f8552bc2750a0000ed" target="_blank">
             problem
         </a>
     </td>
