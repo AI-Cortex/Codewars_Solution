@@ -536,23 +536,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Get%20Nth%20Even%20Number.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 26 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        26
     </td>
     <td>
-        ?
+        Quadrants
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/643af0fa9fa6c406b47c5399" target="_blank">
             problem
         </a>
     </td>
