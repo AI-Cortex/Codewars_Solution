@@ -536,7 +536,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Get%20Nth%20Even%20Number.cpp" target="_blank">
             solution c++
         </a>
     </td>
