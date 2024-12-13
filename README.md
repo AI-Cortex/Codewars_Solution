@@ -578,23 +578,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Wilson%20primes.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 28 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        28
     </td>
     <td>
-        ?
+        Playing with cubes I
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/55c0a79e20be94c91400014b" target="_blank">
             problem
         </a>
     </td>
