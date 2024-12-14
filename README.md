@@ -599,23 +599,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Playing%20with%20cubes%20I.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 29 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        29
     </td>
     <td>
-        ?
+        Count the number of cubes with paint on
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5763bb0af716cad8fb000580" target="_blank">
             problem
         </a>
     </td>
