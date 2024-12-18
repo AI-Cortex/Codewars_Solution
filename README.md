@@ -683,23 +683,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Geometry%20Basics%20Distance%20between%20points%20in%202D.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 33 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        33
     </td>
     <td>
-        ?
+        Find out whether the shape is a cube
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/58d248c7012397a81800005c" target="_blank">
             problem
         </a>
     </td>
