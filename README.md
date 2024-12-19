@@ -704,23 +704,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Find%20out%20whether%20the%20shape%20is%20a%20cube.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 34 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        34
     </td>
     <td>
-        ?
+        Difference of Volumes of Cuboids
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/58cb43f4256836ed95000f97" target="_blank">
             problem
         </a>
     </td>
