@@ -725,23 +725,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Difference%20of%20Volumes%20of%20Cuboids.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 35 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        35
     </td>
     <td>
-        ?
+        Alan Partridge II - Apple Turnover
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/580a094553bd9ec5d800007d" target="_blank">
             problem
         </a>
     </td>
