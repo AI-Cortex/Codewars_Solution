@@ -746,23 +746,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Alan%20Partridge%20II%20-%20Apple%20Turnover.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 36 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        36
     </td>
     <td>
-        ?
+        Pillars
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5bb0c58f484fcd170700063d" target="_blank">
             problem
         </a>
     </td>
