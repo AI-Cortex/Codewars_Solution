@@ -788,23 +788,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sum%20of%20differences%20in%20array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 38 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        38
     </td>
     <td>
-        ?
+        FIXME: Replace all dots
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/596c6eb85b0f515834000049" target="_blank">
             problem
         </a>
     </td>
