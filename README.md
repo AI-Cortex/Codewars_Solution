@@ -809,23 +809,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/FIXME%20Replace%20all%20dots.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 39 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        39
     </td>
     <td>
-        ?
+        Price of Mangoes
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/57a77726bb9944d000000b06" target="_blank">
             problem
         </a>
     </td>
