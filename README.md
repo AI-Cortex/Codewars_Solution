@@ -830,23 +830,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Price%20of%20Mangoes.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 40 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        40
     </td>
     <td>
-        ?
+        To square(root) or not to square(root)
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/57f6ad55cca6e045d2000627" target="_blank">
             problem
         </a>
     </td>
