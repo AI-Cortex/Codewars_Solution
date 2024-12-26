@@ -851,23 +851,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/To%20square(root)%20or%20not%20to%20square(root).cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 41 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        41
     </td>
     <td>
-        ?
+        The 'if' function
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/54147087d5c2ebe4f1000805" target="_blank">
             problem
         </a>
     </td>
