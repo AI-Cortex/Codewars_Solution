@@ -893,23 +893,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Drink%20about.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 43 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        43
     </td>
     <td>
-        ?
+        My head is at the wrong end!
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/56f699cd9400f5b7d8000b55" target="_blank">
             problem
         </a>
     </td>
