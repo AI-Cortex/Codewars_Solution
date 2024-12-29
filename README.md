@@ -914,23 +914,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/My%20head%20is%20at%20the%20wrong%20end!.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 44 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        44
     </td>
     <td>
-        ?
+        What's the real floor?
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/574b3b1599d8f897470018f6" target="_blank">
             problem
         </a>
     </td>
