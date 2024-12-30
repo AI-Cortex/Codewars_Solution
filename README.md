@@ -935,23 +935,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/What's%20the%20real%20floor.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 45 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        45
     </td>
     <td>
-        ?
+        Count of positives / sum of negatives
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044" target="_blank">
             problem
         </a>
     </td>
