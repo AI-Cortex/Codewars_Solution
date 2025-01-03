@@ -1019,23 +1019,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Disemvowel%20Trolls.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 49 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        49
     </td>
     <td>
-        ?
+        Highest and Lowest
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/554b4ac871d6813a03000035" target="_blank">
             problem
         </a>
     </td>
