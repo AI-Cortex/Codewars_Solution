@@ -1040,23 +1040,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Highest%20and%20Lowest.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 50 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        50
     </td>
     <td>
-        ?
+        Descending Order
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5467e4d82edf8bbf40000155" target="_blank">
             problem
         </a>
     </td>
