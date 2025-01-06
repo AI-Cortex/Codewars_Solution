@@ -1082,23 +1082,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Square%20Every%20Digit.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 52 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        52
     </td>
     <td>
-        ?
+        Get the Middle Character
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/56747fd5cb988479af000028" target="_blank">
             problem
         </a>
     </td>
