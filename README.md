@@ -1103,23 +1103,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Get%20the%20Middle%20Character.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 53 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        53
     </td>
     <td>
-        ?
+        You're a square!
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e" target="_blank">
             problem
         </a>
     </td>
