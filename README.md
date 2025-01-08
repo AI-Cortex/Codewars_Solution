@@ -1124,23 +1124,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/You're%20a%20square!.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 54 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        54
     </td>
     <td>
-        ?
+        Mumbling
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5667e8f4e3f572a8f2000039" target="_blank">
             problem
         </a>
     </td>
