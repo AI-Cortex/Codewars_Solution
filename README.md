@@ -1187,23 +1187,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Shortest%20Word.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 57 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        57
     </td>
     <td>
-        ?
+        Exes and Ohs
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/55908aad6620c066bc00002a" target="_blank">
             problem
         </a>
     </td>
