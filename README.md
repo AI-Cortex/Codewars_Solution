@@ -1208,23 +1208,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Exes%20and%20Ohs.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 58 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        58
     </td>
     <td>
-        ?
+        Complementary DNA
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/554e4a2f232cdd87d9000038" target="_blank">
             problem
         </a>
     </td>
