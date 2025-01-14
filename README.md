@@ -1250,23 +1250,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sum%20of%20two%20lowest%20positive%20integers.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 60 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        60
     </td>
     <td>
-        ?
+        Beginner Series #3 Sum of Numbers
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/55f2b110f61eb01779000053" target="_blank">
             problem
         </a>
     </td>
