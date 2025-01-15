@@ -1271,23 +1271,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Beginner%20Series%20%233%20Sum%20of%20Numbers.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 61 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        61
     </td>
     <td>
-        ?
+        Two to One
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5656b6906de340bd1b0000ac" target="_blank">
             problem
         </a>
     </td>
