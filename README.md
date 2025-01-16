@@ -1292,23 +1292,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Two%20to%20One.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 62 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        62
     </td>
     <td>
-        ?
+        Friend or Foe
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/55b42574ff091733d900002f/train/cpp" target="_blank">
             problem
         </a>
     </td>
