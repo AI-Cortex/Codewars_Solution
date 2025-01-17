@@ -1313,23 +1313,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Friend%20or%20Foe.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 63 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        63
     </td>
     <td>
-        ?
+        String ends with
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d" target="_blank">
             problem
         </a>
     </td>
