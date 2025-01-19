@@ -1355,23 +1355,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Find%20the%20next%20perfect%20square!.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 65 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        65
     </td>
     <td>
-        ?
+        Printer Errors
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/56541980fa08ab47a0000040" target="_blank">
             problem
         </a>
     </td>
