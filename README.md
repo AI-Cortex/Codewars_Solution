@@ -1397,23 +1397,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Binary%20Addition.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 67 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        67
     </td>
     <td>
-        ?
+        Growth of a Population
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/563b662a59afc2b5120000c6" target="_blank">
             problem
         </a>
     </td>
