@@ -1418,23 +1418,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Growth%20of%20a%20Population.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 68 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        68
     </td>
     <td>
-        ?
+        Is this a triangle
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/56606694ec01347ce800001b" target="_blank">
             problem
         </a>
     </td>
