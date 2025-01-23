@@ -1439,23 +1439,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Is%20this%20a%20triangle.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 69 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        69
     </td>
     <td>
-        ?
+        Sum of odd numbers
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/55fd2d567d94ac3bc9000064" target="_blank">
             problem
         </a>
     </td>
