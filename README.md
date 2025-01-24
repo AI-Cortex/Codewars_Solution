@@ -1460,23 +1460,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sum%20of%20odd%20numbers.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 70 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        70
     </td>
     <td>
-        ?
+        Number of People in the Bus
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5648b12ce68d9daa6b000099" target="_blank">
             problem
         </a>
     </td>
