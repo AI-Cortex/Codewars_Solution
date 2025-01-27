@@ -1523,23 +1523,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sum%20of%20the%20first%20nth%20term%20of%20Series.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 73 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        73
     </td>
     <td>
-        ?
+        Remove the minimum
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/563cf89eb4747c5fb100001b" target="_blank">
             problem
         </a>
     </td>
