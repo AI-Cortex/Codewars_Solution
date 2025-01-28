@@ -1544,23 +1544,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Remove%20the%20minimum.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 74 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        74
     </td>
     <td>
-        ?
+        Testing 1-2-3
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9" target="_blank">
             problem
         </a>
     </td>
