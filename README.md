@@ -1628,23 +1628,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Count%20the%20divisors%20of%20a%20number.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 78 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        78
     </td>
     <td>
-        .
+        Sort array by string length
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c" target="_blank">
             problem
         </a>
     </td>
