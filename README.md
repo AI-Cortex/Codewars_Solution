@@ -1649,23 +1649,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sort%20array%20by%20string%20length.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 79 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        79
     </td>
     <td>
-        .
+        Breaking chocolate problem
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/534ea96ebb17181947000ada" target="_blank">
             problem
         </a>
     </td>
