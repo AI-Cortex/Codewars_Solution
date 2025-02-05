@@ -1712,23 +1712,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sort%20Numbers.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 82 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        82
     </td>
     <td>
-        .
+        Multiples of 3 or 5
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/514b92a657cdc65150000006" target="_blank">
             problem
         </a>
     </td>
