@@ -1733,23 +1733,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Multiples%20of%203%20or%205.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 83 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        83
     </td>
     <td>
-        .
+        Who likes it?
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362" target="_blank">
             problem
         </a>
     </td>
@@ -1760,17 +1760,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 84 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        84
     </td>
     <td>
-        .
+        Find the odd int
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/54da5a58ea159efa38000836" target="_blank">
             problem
         </a>
     </td>
