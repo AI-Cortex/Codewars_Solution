@@ -1754,7 +1754,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Who%20likes%20it.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -1775,23 +1775,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Find%20the%20odd%20int.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 85 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        85
     </td>
     <td>
-        .
+        Stop gninnipS My sdroW!
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5264d2b162488dc400000001" target="_blank">
             problem
         </a>
     </td>
@@ -1802,17 +1802,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 86 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        86
     </td>
     <td>
-        .
+        Sum of Digits / Digital Root
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/541c8630095125aba6000c00" target="_blank">
             problem
         </a>
     </td>
