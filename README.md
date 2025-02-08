@@ -1796,7 +1796,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Stop%20gninnipS%20My%20sdroW!.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -1817,23 +1817,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sum%20of%20Digits%20Digital%20Root.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 87 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        87
     </td>
     <td>
-        .
+        Create Phone Number
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/525f50e3b73515a6db000b83" target="_blank">
             problem
         </a>
     </td>
