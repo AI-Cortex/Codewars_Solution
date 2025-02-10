@@ -1859,23 +1859,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Bit%20Counting.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 89 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        89
     </td>
     <td>
-        .
+        Find The Parity Outlier
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5526fc09a1bbd946250002dc" target="_blank">
             problem
         </a>
     </td>
