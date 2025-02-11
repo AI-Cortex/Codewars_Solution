@@ -1880,23 +1880,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Find%20The%20Parity%20Outlier.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 90 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        90
     </td>
     <td>
-        .
+        Count the number of Duplicates
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1" target="_blank">
             problem
         </a>
     </td>
