@@ -1901,23 +1901,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Count%20the%20number%20of%20Duplicates.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 91 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        91
     </td>
     <td>
-        .
+        Duplicate Encoder
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/54b42f9314d9229fd6000d9c" target="_blank">
             problem
         </a>
     </td>
@@ -1928,17 +1928,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 92 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        92
     </td>
     <td>
-        .
+        Take a Ten Minutes Walk
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/54da539698b8a2ad76000228" target="_blank">
             problem
         </a>
     </td>
