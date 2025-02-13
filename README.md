@@ -1922,7 +1922,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Duplicate%20Encoder.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -1943,23 +1943,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Take%20a%20Ten%20Minutes%20Walk.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 93 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        93
     </td>
     <td>
-        .
+        Replace With Alphabet Position
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/546f922b54af40e1e90001da" target="_blank">
             problem
         </a>
     </td>
@@ -1970,17 +1970,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 94 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        94
     </td>
     <td>
-        .
+        Persistent Bugger.
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec" target="_blank">
             problem
         </a>
     </td>
@@ -1991,17 +1991,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 95 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        95
     </td>
     <td>
-        .
+        Convert string to camel case
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/517abf86da9663f1d2000003" target="_blank">
             problem
         </a>
     </td>
@@ -2012,17 +2012,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 96 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        96
     </td>
     <td>
-        .
+        Convert string to camel case
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/517abf86da9663f1d2000003" target="_blank">
             problem
         </a>
     </td>
