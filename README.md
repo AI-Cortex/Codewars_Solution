@@ -1964,7 +1964,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Replace%20With%20Alphabet%20Position.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -1985,7 +1985,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Persistent%20Bugger..cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2006,11 +2006,12 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Convert%20string%20to%20camel%20case.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
+
 
 <!-- 96 __________________________________________________________________________________________________ -->
 
@@ -2019,10 +2020,10 @@
         96
     </td>
     <td>
-        Convert string to camel case
+        Unique In Order
     </td>
     <td>
-        <a href="https://www.codewars.com/kata/517abf86da9663f1d2000003" target="_blank">
+        <a href="https://www.codewars.com/kata/54e6533c92449cc251001667" target="_blank">
             problem
         </a>
     </td>
@@ -2033,17 +2034,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 97 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        97
     </td>
     <td>
-        .
+        Tribonacci Sequence
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/556deca17c58da83c00002db" target="_blank">
             problem
         </a>
     </td>
@@ -2054,38 +2055,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 98 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        98
     </td>
     <td>
-        .
+        Does my number look big in this?
     </td>
     <td>
-        <a href="" target="_blank">
-            problem
-        </a>
-    </td>
-    <td>
-        <a href="" target="_blank">
-            solution c++
-        </a>
-    </td>
-</tr>
-
-<!-- . __________________________________________________________________________________________________ -->
-
-<tr>
-    <td>
-        .
-    </td>
-    <td>
-        .
-    </td>
-    <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5287e858c6b5a9678200083c" target="_blank">
             problem
         </a>
     </td>
