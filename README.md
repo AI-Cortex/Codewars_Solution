@@ -2028,7 +2028,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Unique%20In%20Order.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2049,7 +2049,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Tribonacci%20Sequence.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2070,23 +2070,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Does%20my%20number%20look%20big%20in%20this.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 99 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        99
     </td>
     <td>
-        .
+        Playing with digits
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5552101f47fc5178b1000050" target="_blank">
             problem
         </a>
     </td>
