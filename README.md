@@ -2091,23 +2091,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Playing%20with%20digits.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 100 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        100
     </td>
     <td>
-        .
+        Equal Sides Of An Array
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5679aa472b8f57fb8c000047" target="_blank">
             problem
         </a>
     </td>
