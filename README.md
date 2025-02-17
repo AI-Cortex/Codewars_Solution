@@ -2112,23 +2112,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Equal%20Sides%20Of%20An%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 101 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        101
     </td>
     <td>
-        .
+        Sort the odd
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/578aa45ee9fd15ff4600090d" target="_blank">
             problem
         </a>
     </td>
