@@ -2133,44 +2133,44 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sort%20the%20odd.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 102 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        102
     </td>
     <td>
-        .
+        Print ascii value in python
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/print-ascii-value-in-python/1" target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sort%20the%20odd.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 103 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        103
     </td>
     <td>
-        .
+        Find the unique number
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235" target="_blank">
             problem
         </a>
     </td>
