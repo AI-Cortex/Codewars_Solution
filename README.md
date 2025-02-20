@@ -2196,23 +2196,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Find%20the%20missing%20letter.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 105 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        105
     </td>
     <td>
-        .
+        Build Tower
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/576757b1df89ecf5bd00073b" target="_blank">
             problem
         </a>
     </td>
