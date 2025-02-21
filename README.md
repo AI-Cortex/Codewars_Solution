@@ -2217,23 +2217,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Build%20Tower.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 106 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        106
     </td>
     <td>
-        .
+        Count the smiley faces!
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/583203e6eb35d7980400002a" target="_blank">
             problem
         </a>
     </td>
