@@ -2238,23 +2238,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Count%20the%20smiley%20faces!.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 107 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        107
     </td>
     <td>
-        .
+        Build a pile of Cubes
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5592e3bd57b64d00f3000047" target="_blank">
             problem
         </a>
     </td>
