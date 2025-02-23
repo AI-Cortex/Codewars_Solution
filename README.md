@@ -2259,23 +2259,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Build%20a%20pile%20of%20Cubes.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 108 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        108
     </td>
     <td>
-        .
+        The Vowel Code
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/53697be005f803751e0015aa" target="_blank">
             problem
         </a>
     </td>
