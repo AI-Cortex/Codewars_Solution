@@ -2280,23 +2280,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/The%20Vowel%20Code.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 109 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        109
     </td>
     <td>
-        .
+        Delete occurrences of an element if it occurs more than n times
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/554ca54ffa7d91b236000023" target="_blank">
             problem
         </a>
     </td>
