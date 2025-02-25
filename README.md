@@ -2301,23 +2301,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 110 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        110
     </td>
     <td>
-        .
+        Valid Braces
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5277c8a221e209d3f6000b56" target="_blank">
             problem
         </a>
     </td>
