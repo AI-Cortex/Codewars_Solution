@@ -2322,23 +2322,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Valid%20Braces.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 111 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        111
     </td>
     <td>
-        .
+        Is a number prime?
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5262119038c0985a5b00029f" target="_blank">
             problem
         </a>
     </td>
