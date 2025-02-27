@@ -2343,23 +2343,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Is%20a%20number%20prime.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 112 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        112
     </td>
     <td>
-        .
+        Detect Pangram
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/545cedaa9943f7fe7b000048" target="_blank">
             problem
         </a>
     </td>
