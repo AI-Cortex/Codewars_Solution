@@ -2364,6 +2364,426 @@
         </a>
     </td>
     <td>
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Detect%20Pangram.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 113 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        113
+    </td>
+    <td>
+        Count characters in your string
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/52efefcbcdf57161d4000091" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 114 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        114
+    </td>
+    <td>
+        Don't give me five!
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5813d19765d81c592200001a" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
         <a href="" target="_blank">
             solution c++
         </a>
