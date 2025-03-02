@@ -2385,7 +2385,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Count%20characters%20in%20your%20string.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2406,23 +2406,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Don't%20give%20me%20five!.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 115 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        115
     </td>
     <td>
-        .
+        Remove anchor from URL
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/51f2b4448cadf20ed0000386" target="_blank">
             problem
         </a>
     </td>
