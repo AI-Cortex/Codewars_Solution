@@ -2427,23 +2427,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Remove%20anchor%20from%20URL.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 116 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        116
     </td>
     <td>
-        .
+        Sum of angles
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5a03b3f6a1c9040084001765" target="_blank">
             problem
         </a>
     </td>
