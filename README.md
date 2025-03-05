@@ -2469,23 +2469,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Anagram%20Detection.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 118 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        118
     </td>
     <td>
-        .
+        Fix string case
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5b180e9fedaa564a7000009a" target="_blank">
             problem
         </a>
     </td>
