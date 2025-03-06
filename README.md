@@ -2490,23 +2490,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Fix%20string%20case.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 119 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        119
     </td>
     <td>
-        .
+        Two Oldest Ages
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/511f11d355fe575d2c000001" target="_blank">
             problem
         </a>
     </td>
