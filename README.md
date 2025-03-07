@@ -2511,23 +2511,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Two%20Oldest%20Ages.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 120 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        120
     </td>
     <td>
-        .
+        Small enough? - Beginner
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/57cc981a58da9e302a000214" target="_blank">
             problem
         </a>
     </td>
