@@ -2532,23 +2532,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Small%20enough%20-%20Beginner.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 121 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        121
     </td>
     <td>
-        .
+        Sum of Minimums!
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5d5ee4c35162d9001af7d699" target="_blank">
             problem
         </a>
     </td>
