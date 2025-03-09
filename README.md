@@ -2553,23 +2553,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sum%20of%20Minimums!.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 122 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        122
     </td>
     <td>
-        .
+        Are the numbers in order?
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/56b7f2f3f18876033f000307/train/cpp" target="_blank">
             problem
         </a>
     </td>
