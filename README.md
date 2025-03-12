@@ -2616,23 +2616,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sorted%20yes%20no%20how.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 125 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        125
     </td>
     <td>
-        .
+        Largest 5 digit number in a series
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/51675d17e0c1bed195000001" target="_blank">
             problem
         </a>
     </td>
