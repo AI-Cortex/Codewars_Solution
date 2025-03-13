@@ -2637,23 +2637,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Largest%205%20digit%20number%20in%20a%20series.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 126 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        126
     </td>
     <td>
-        .
+        Help Bob count letters and digits.
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5738f5ea9545204cec000155" target="_blank">
             problem
         </a>
     </td>
