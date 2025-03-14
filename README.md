@@ -2658,23 +2658,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Help%20Bob%20count%20letters%20and%20digits..cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 127 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        127
     </td>
     <td>
-        .
+        Evens times last
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5a1a9e5032b8b98477000004" target="_blank">
             problem
         </a>
     </td>
