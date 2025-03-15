@@ -2679,23 +2679,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Evens%20times%20last.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 128 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        128
     </td>
     <td>
-        .
+        Mexican Wave
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/58f5c63f1e26ecda7e000029" target="_blank">
             problem
         </a>
     </td>
