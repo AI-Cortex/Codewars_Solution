@@ -2700,23 +2700,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Mexican%20Wave.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 129 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        129
     </td>
     <td>
-        .
+        Are they the "same"?
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/550498447451fbbd7600041c" target="_blank">
             problem
         </a>
     </td>
