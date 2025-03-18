@@ -2721,23 +2721,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Are%20they%20the%20same.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 130 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        130
     </td>
     <td>
-        .
+        Form The Minimum
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5ac6932b2f317b96980000ca" target="_blank">
             problem
         </a>
     </td>
@@ -2748,17 +2748,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 131 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        131
     </td>
     <td>
-        .
+        Factorial
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/57a049e253ba33ac5e000212" target="_blank">
             problem
         </a>
     </td>
