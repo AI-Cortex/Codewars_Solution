@@ -2742,7 +2742,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Form%20The%20Minimum.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2763,23 +2763,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Factorial.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 132 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        132
     </td>
     <td>
-        .
+        Maximum Length Difference
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5663f5305102699bad000056" target="_blank">
             problem
         </a>
     </td>
