@@ -2784,23 +2784,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Maximum%20Length%20Difference.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 133 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        133
     </td>
     <td>
-        .
+        JavaScript Array Filter
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/514a6336889283a3d2000001" target="_blank">
             problem
         </a>
     </td>
