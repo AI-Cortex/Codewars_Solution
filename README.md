@@ -2826,23 +2826,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Simple%20Fun%20%23176%20Reverse%20Letter.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 135 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        135
     </td>
     <td>
-        .
+        Predict your age!
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5aff237c578a14752d0035ae" target="_blank">
             problem
         </a>
     </td>
