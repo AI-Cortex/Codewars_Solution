@@ -2847,23 +2847,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Predict%20your%20age!.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 136 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        136
     </td>
     <td>
-        .
+        Sum of numbers from 0 to N
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763" target="_blank">
             problem
         </a>
     </td>
