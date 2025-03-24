@@ -2868,23 +2868,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Sum%20of%20numbers%20from%200%20to%20N.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 137 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        137
     </td>
     <td>
-        .
+        Moving Zeros To The End
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/52597aa56021e91c93000cb0" target="_blank">
             problem
         </a>
     </td>
