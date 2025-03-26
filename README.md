@@ -2910,23 +2910,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/RGB%20To%20Hex%20Conversion.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 139 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        139
     </td>
     <td>
-        .
+        Rot13
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/530e15517bc88ac656000716" target="_blank">
             problem
         </a>
     </td>
