@@ -2931,23 +2931,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Rot13.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 140 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        140
     </td>
     <td>
-        .
+        Directions Reduction
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/550f22f4d758534c1100025a" target="_blank">
             problem
         </a>
     </td>
