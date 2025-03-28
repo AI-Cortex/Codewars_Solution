@@ -2952,23 +2952,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Directions%20Reduction.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 141 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        141
     </td>
     <td>
-        .
+        Maximum subarray sum
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c" target="_blank">
             problem
         </a>
     </td>
