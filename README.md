@@ -3000,6 +3000,27 @@
     </td>
 </tr>
 
+<!-- 143 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        143
+    </td>
+    <td>
+        Number of trailing zeros of N!
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/52f787eb172a8b4ae1000a34" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Number%20of%20trailing%20zeros%20of%20N%21.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
