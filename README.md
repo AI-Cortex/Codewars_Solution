@@ -2973,23 +2973,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codewars_Solution/blob/main/code%20c%2B%2B/Maximum%20subarray%20sum.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 142 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        142
     </td>
     <td>
-        .
+        Product of consecutive Fib numbers
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/kata/5541f58a944b85ce6d00006a" target="_blank">
             problem
         </a>
     </td>
