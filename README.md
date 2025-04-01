@@ -3042,6 +3042,27 @@
     </td>
 </tr>
 
+<!-- 145 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        145
+    </td>
+    <td>
+        Greed is Good
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5270d0d18625160ada0000e4" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Greed%20is%20Good.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
