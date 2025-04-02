@@ -3084,6 +3084,27 @@
     </td>
 </tr>
 
+<!-- 147 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        147
+    </td>
+    <td>
+        Primes in numbers
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/54d512e62a5e54c96200019e" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c++/Primes%20in%20numbers.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
