@@ -3105,6 +3105,27 @@
     </td>
 </tr>
 
+<!-- 148 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        148
+    </td>
+    <td>
+        Perimeter of squares in a rectangle
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/559a28007caad2ac4e000083" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c++/Perimeter%20of%20squares%20in%20a%20rectangle.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
