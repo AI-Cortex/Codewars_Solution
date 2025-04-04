@@ -3099,7 +3099,7 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c++/Primes%20in%20numbers.cpp" target="_blank">
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Primes%20in%20numbers.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -3120,7 +3120,28 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c++/Perimeter%20of%20squares%20in%20a%20rectangle.cpp" target="_blank">
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Perimeter%20of%20squares%20in%20a%20rectangle.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 149 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        149
+    </td>
+    <td>
+        Integers: Recreation One
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55aa075506463dac6600010d" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Integers%20Recreation%20One.cpp" target="_blank">
             solution c++
         </a>
     </td>
