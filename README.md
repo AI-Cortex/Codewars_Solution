@@ -3147,6 +3147,27 @@
     </td>
 </tr>
 
+<!-- 150 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        150
+    </td>
+    <td>
+        Gap in Primes
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Gap%20in%20Primes.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
