@@ -3168,6 +3168,27 @@
     </td>
 </tr>
 
+<!-- 151 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        151
+    </td>
+    <td>
+        Convert a Number to a String!
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5265326f5fda8eb1160004c8" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Convert%20a%20Number%20to%20a%20String%21.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
