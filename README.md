@@ -3210,6 +3210,27 @@
     </td>
 </tr>
 
+<!-- 153 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        153
+    </td>
+    <td>
+        Opposite number
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/56dec885c54a926dcd001095" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Opposite%20number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
