@@ -3189,6 +3189,27 @@
     </td>
 </tr>
 
+<!-- 152 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        152
+    </td>
+    <td>
+        Return Negative
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55685cd7ad70877c23000102" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Return%20Negative.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
