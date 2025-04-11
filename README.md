@@ -3252,6 +3252,27 @@
     </td>
 </tr>
 
+<!-- 155 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        155
+    </td>
+    <td>
+        String repeat
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/String%20repeat.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
