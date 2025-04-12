@@ -3273,6 +3273,27 @@
     </td>
 </tr>
 
+<!-- 156 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        156
+    </td>
+    <td>
+        Find the smallest integer in the array
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55a2d7ebe362935a210000b2" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Find%20the%20smallest%20integer%20in%20the%20array.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
