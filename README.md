@@ -3294,6 +3294,27 @@
     </td>
 </tr>
 
+<!-- 157 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        157
+    </td>
+    <td>
+        Convert boolean values to strings 'Yes' or 'No'.
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/53369039d7ab3ac506000467" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Convert%20boolean%20values%20to%20strings%20%27Yes%27%20or%20%27No%27..cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
