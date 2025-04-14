@@ -3315,6 +3315,27 @@
     </td>
 </tr>
 
+<!-- 158 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        158
+    </td>
+    <td>
+        Returning Strings
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55a70521798b14d4750000a4" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Returning%20Strings.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
