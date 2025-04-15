@@ -3336,6 +3336,27 @@
     </td>
 </tr>
 
+<!-- 159 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        159
+    </td>
+    <td>
+        Remove First and Last Character
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Remove%20First%20and%20Last%20Character.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
