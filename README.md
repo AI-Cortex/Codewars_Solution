@@ -3357,6 +3357,27 @@
     </td>
 </tr>
 
+<!-- 160 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        160
+    </td>
+    <td>
+        Reversed Strings
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5168bb5dfe9a00b126000018" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Reversed%20Strings.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
