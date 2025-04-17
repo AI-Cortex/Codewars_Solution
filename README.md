@@ -3378,6 +3378,27 @@
     </td>
 </tr>
 
+<!-- 161 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        161
+    </td>
+    <td>
+        Function 1 - hello world
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/523b4ff7adca849afe000035" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Function%201%20-%20hello%20world.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
