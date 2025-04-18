@@ -3399,6 +3399,27 @@
     </td>
 </tr>
 
+<!-- 162 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        162
+    </td>
+    <td>
+        Convert a String to a Number!
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/544675c6f971f7399a000e79" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Convert%20a%20String%20to%20a%20Number%21.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
