@@ -1,5 +1,5 @@
-// my profile : https://codeforces.com/profile/AI-Cortex
-// Codeforces solution github repository : https://github.com/AI-Cortex/codewars_solution
+// my profile : https://www.codewars.com/users/AI-Cortex
+// Codewars solution github repository : https://github.com/AI-Cortex/codewars_solution
 //////////////////////////////////////////////////////////////////////
 // name : Primes in numbers
 // link : https://www.codewars.com/kata/54d512e62a5e54c96200019e

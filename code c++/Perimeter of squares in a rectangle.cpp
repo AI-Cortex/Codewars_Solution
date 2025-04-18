@@ -1,5 +1,5 @@
-// my profile : https://codeforces.com/profile/AI-Cortex
-// Codeforces solution github repository : https://github.com/AI-Cortex/codewars_solution
+// my profile : https://www.codewars.com/users/AI-Cortex
+// Codewars solution github repository : https://github.com/AI-Cortex/codewars_solution
 //////////////////////////////////////////////////////////////////////
 // name : Perimeter of squares in a rectangle
 // link : https://www.codewars.com/kata/559a28007caad2ac4e000083

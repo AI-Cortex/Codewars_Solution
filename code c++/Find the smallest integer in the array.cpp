@@ -1,5 +1,5 @@
-// my profile : https://codeforces.com/profile/AI-Cortex
-// Codeforces solution github repository : https://github.com/AI-Cortex/codewars_solution
+// my profile : https://www.codewars.com/users/AI-Cortex
+// Codewars solution github repository : https://github.com/AI-Cortex/codewars_solution
 //////////////////////////////////////////////////////////////////////
 // name : Find the smallest integer in the array
 // link : https://www.codewars.com/kata/55a2d7ebe362935a210000b2

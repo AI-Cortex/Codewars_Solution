@@ -1,5 +1,5 @@
-// my profile : https://codeforces.com/profile/AI-Cortex
-// Codeforces solution github repository : https://github.com/AI-Cortex/codewars_solution
+// my profile : https://www.codewars.com/users/AI-Cortex
+// Codewars solution github repository : https://github.com/AI-Cortex/codewars_solution
 //////////////////////////////////////////////////////////////////////
 // name : Reversed Strings
 // link : https://www.codewars.com/kata/5168bb5dfe9a00b126000018

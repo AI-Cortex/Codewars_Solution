@@ -1,5 +1,5 @@
-// my profile : https://codeforces.com/profile/AI-Cortex
-// Codeforces solution github repository : https://github.com/AI-Cortex/codewars_solution
+// my profile : https://www.codewars.com/users/AI-Cortex
+// Codewars solution github repository : https://github.com/AI-Cortex/codewars_solution
 //////////////////////////////////////////////////////////////////////
 // name : String incrementer
 // link : https://www.codewars.com/kata/54a91a4883a7de5d7800009c
