@@ -3462,6 +3462,27 @@
     </td>
 </tr>
 
+<!-- 165 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        165
+    </td>
+    <td>
+        Sum Arrays
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/53dc54212259ed3d4f00071c" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Sum%20Arrays.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
