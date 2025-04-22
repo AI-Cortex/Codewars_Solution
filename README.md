@@ -3483,6 +3483,27 @@
     </td>
 </tr>
 
+<!-- 166 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        166
+    </td>
+    <td>
+        Beginner - Lost Without a Map
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57f781872e3d8ca2a000007e" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Beginner%20-%20Lost%20Without%20a%20Map.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
