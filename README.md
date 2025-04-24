@@ -3525,6 +3525,27 @@
     </td>
 </tr>
 
+<!-- 168 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        168
+    </td>
+    <td>
+        Century From Year
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Century%20From%20Year.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
