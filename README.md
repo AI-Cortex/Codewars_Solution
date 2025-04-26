@@ -3567,6 +3567,27 @@
     </td>
 </tr>
 
+<!-- 170 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        170
+    </td>
+    <td>
+        Grasshopper - Summation
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55d24f55d7dd296eb9000030" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Grasshopper%20-%20Summation.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
