@@ -3588,6 +3588,27 @@
     </td>
 </tr>
 
+<!-- 171 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        171
+    </td>
+    <td>
+        Counting sheep...
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/54edbc7200b811e956000556" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Counting%20sheep....cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
