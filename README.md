@@ -3609,6 +3609,27 @@
     </td>
 </tr>
 
+<!-- 172 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        172
+    </td>
+    <td>
+        You Can't Code Under Pressure #1
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/53ee5429ba190077850011d4" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/You%20Can%27t%20Code%20Under%20Pressure%20%231.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
