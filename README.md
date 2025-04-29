@@ -3714,6 +3714,69 @@
     </td>
 </tr>
 
+<!-- 177 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        177
+    </td>
+    <td>
+        Beginner Series #2 Clock
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Beginner%20Series%20%232%20Clock.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 178 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        178
+    </td>
+    <td>
+        Simple multiplication
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/583710ccaa6717322c000105" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Simple%20multiplication.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 179 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        179
+    </td>
+    <td>
+        Abbreviate a Two Word Name
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Abbreviate%20a%20Two%20Word%20Name.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
