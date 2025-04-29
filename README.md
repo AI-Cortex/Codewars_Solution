@@ -3693,6 +3693,27 @@
     </td>
 </tr>
 
+<!-- 176 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        176
+    </td>
+    <td>
+        MakeUpperCase
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/MakeUpperCase.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
