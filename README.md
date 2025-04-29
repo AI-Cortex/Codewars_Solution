@@ -3630,6 +3630,27 @@
     </td>
 </tr>
 
+<!-- 173 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        173
+    </td>
+    <td>
+        Basic Mathematical Operations
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57356c55867b9b7a60000bd7" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Basic%20Mathematical%20Operations.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
