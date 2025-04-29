@@ -3651,6 +3651,48 @@
     </td>
 </tr>
 
+<!-- 174 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        174
+    </td>
+    <td>
+        Opposites Attract
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/555086d53eac039a2a000083" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Opposites%20Attract.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 175 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        175
+    </td>
+    <td>
+        Beginner Series #1 School Paperwork
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Beginner%20Series%20%231%20School%20Paperwork.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
