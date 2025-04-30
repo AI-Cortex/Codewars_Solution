@@ -3777,6 +3777,27 @@
     </td>
 </tr>
 
+<!-- 180 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        180
+    </td>
+    <td>
+        A Needle in the Haystack
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/56676e8fabd2d1ff3000000c" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/A%20Needle%20in%20the%20Haystack.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
