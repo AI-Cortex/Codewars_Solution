@@ -3798,6 +3798,27 @@
     </td>
 </tr>
 
+<!-- 181 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        181
+    </td>
+    <td>
+        Sentence Smash
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/53dc23c68a0c93699800041d" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Sentence%20Smash.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
