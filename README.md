@@ -3819,6 +3819,27 @@
     </td>
 </tr>
 
+<!-- 182 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        182
+    </td>
+    <td>
+        Calculate average
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57a2013acf1fa5bfc4000921" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Calculate%20average.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
