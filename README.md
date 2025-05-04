@@ -3840,6 +3840,27 @@
     </td>
 </tr>
 
+<!-- 183 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        183
+    </td>
+    <td>
+        Weight for weight
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55c6126177c9441a570000cc" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Weight%20for%20weight.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
