@@ -3861,6 +3861,27 @@
     </td>
 </tr>
 
+<!-- 184 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        184
+    </td>
+    <td>
+        Simple Pig Latin
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/520b9d2ad5c005041100000f" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Simple%20Pig%20Latin.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
