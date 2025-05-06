@@ -3882,6 +3882,27 @@
     </td>
 </tr>
 
+<!-- 185 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        185
+    </td>
+    <td>
+        Pick peaks
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5279f6fe5ab7f447890006a7" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Pick%20peaks.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
