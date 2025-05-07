@@ -3903,6 +3903,27 @@
     </td>
 </tr>
 
+<!-- 186 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        186
+    </td>
+    <td>
+        Split Strings
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/515de9ae9dcfc28eb6000001" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Split%20Strings.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
