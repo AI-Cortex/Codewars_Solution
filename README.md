@@ -3924,6 +3924,27 @@
     </td>
 </tr>
 
+<!-- 187 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        187
+    </td>
+    <td>
+        Decode the Morse code
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/54b724efac3d5402db00065e" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Decode%20the%20Morse%20code.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
