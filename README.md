@@ -3945,6 +3945,27 @@
     </td>
 </tr>
 
+<!-- 188 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        188
+    </td>
+    <td>
+        Bouncing Balls
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5544c7a5cb454edb3c000047" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Bouncing%20Balls.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
