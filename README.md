@@ -3966,6 +3966,27 @@
     </td>
 </tr>
 
+<!-- 189 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        189
+    </td>
+    <td>
+        Multiplication table
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Multiplication%20table.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
