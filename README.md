@@ -3987,6 +3987,27 @@
     </td>
 </tr>
 
+<!-- 190 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        190
+    </td>
+    <td>
+        Reverse or rotate?
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Reverse%20or%20rotate.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
