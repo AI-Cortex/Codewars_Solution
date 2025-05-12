@@ -4008,6 +4008,27 @@
     </td>
 </tr>
 
+<!-- 191 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        191
+    </td>
+    <td>
+        Simple beads count
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/58712dfa5c538b6fc7000569" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Simple%20beads%20count.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
