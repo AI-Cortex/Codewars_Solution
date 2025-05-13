@@ -4029,6 +4029,27 @@
     </td>
 </tr>
 
+<!-- 192 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        192
+    </td>
+    <td>
+        Sum of a sequence
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/586f6741c66d18c22800010a" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Sum%20of%20a%20sequence.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
