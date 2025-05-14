@@ -4050,6 +4050,27 @@
     </td>
 </tr>
 
+<!-- 193 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        193
+    </td>
+    <td>
+        Maximum Multiple
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5aba780a6a176b029800041c" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Maximum%20Multiple.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
