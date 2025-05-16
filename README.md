@@ -4092,6 +4092,27 @@
     </td>
 </tr>
 
+<!-- 195 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        195
+    </td>
+    <td>
+        Deodorant Evaporator
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5506b230a11c0aeab3000c1f" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Deodorant%20Evaporator.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
