@@ -4134,6 +4134,48 @@
     </td>
 </tr>
 
+<!-- 197 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        197
+    </td>
+    <td>
+        Sum of Cubes
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/59a8570b570190d313000037" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Sum%20of%20Cubes.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 198 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        198
+    </td>
+    <td>
+        Reverse words
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Reverse%20words.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
