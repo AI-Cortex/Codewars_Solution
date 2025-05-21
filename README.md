@@ -4197,6 +4197,27 @@
     </td>
 </tr>
 
+<!-- 200 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        200
+    </td>
+    <td>
+        Help the bookseller !
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/54dc6f5a224c26032800005c" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Help%20the%20bookseller%20%21.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
