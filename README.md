@@ -4218,6 +4218,27 @@
     </td>
 </tr>
 
+<!-- 201 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        201
+    </td>
+    <td>
+        Roman Numerals Encoder
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/51b62bf6a9c58071c600001b" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Roman%20Numerals%20Encoder.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
