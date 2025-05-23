@@ -4239,6 +4239,27 @@
     </td>
 </tr>
 
+<!-- 202 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        202
+    </td>
+    <td>
+        Rectangle into Squares
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55466989aeecab5aac00003e" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Rectangle%20into%20Squares.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
