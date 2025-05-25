@@ -4281,6 +4281,27 @@
     </td>
 </tr>
 
+<!-- 204 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        204
+    </td>
+    <td>
+        Sums of Parts
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5ce399e0047a45001c853c2b" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Sums%20of%20Parts.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
