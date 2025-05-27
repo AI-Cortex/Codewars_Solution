@@ -4323,6 +4323,27 @@
     </td>
 </tr>
 
+<!-- 206 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        206
+    </td>
+    <td>
+        Take a Number And Sum  Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5626b561280a42ecc50000d1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Take%20a%20Number%20And%20Sum%20%20Its%20Digits%20Raised%20To%20The%20Consecutive%20Powers%20And%20....%C2%A1Eureka%21%21.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
