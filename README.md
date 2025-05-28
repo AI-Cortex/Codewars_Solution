@@ -4344,6 +4344,27 @@
     </td>
 </tr>
 
+<!-- 207 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        207
+    </td>
+    <td>
+        WeIrD StRiNg CaSe
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/52b757663a95b11b3d00062d" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/WeIrD%20StRiNg%20CaSe.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
