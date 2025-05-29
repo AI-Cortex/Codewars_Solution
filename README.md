@@ -4365,6 +4365,27 @@
     </td>
 </tr>
 
+<!-- 208 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        208
+    </td>
+    <td>
+        N-th Fibonacci
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/522551eee9abb932420004a0" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/N-th%20Fibonacci.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
