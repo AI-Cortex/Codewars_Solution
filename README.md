@@ -4386,6 +4386,27 @@
     </td>
 </tr>
 
+<!-- 209 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        209
+    </td>
+    <td>
+        Even numbers in an array
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Even%20numbers%20in%20an%20array.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
