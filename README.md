@@ -4407,6 +4407,27 @@
     </td>
 </tr>
 
+<!-- 210 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        210
+    </td>
+    <td>
+        Remove duplicate words
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5b39e3772ae7545f650000fc" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Remove%20duplicate%20words.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
