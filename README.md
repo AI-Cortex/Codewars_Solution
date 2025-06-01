@@ -4428,6 +4428,27 @@
     </td>
 </tr>
 
+<!-- 211 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        211
+    </td>
+    <td>
+        Length of missing array
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Length%20of%20missing%20array.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
