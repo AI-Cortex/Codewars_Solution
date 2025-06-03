@@ -4470,6 +4470,27 @@
     </td>
 </tr>
 
+<!-- 213 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        213
+    </td>
+    <td>
+        Minimize  Sum Of Array (Array Series #1)
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5a523566b3bfa84c2e00010b" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Minimize%20%20Sum%20Of%20Array%20%28Array%20Series%20%231%29.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
