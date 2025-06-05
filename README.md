@@ -4512,6 +4512,27 @@
     </td>
 </tr>
 
+<!-- 215 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        215
+    </td>
+    <td>
+        Bumps in the Road
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57ed30dde7728215300005fa" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Bumps%20in%20the%20Road.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
