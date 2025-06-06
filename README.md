@@ -4533,6 +4533,27 @@
     </td>
 </tr>
 
+<!-- 216 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        216
+    </td>
+    <td>
+        Find the vowels
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5680781b6b7c2be860000036" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Find%20the%20vowels.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
