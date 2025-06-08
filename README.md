@@ -4575,6 +4575,27 @@
     </td>
 </tr>
 
+<!-- 218 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        218
+    </td>
+    <td>
+        Greatest common divisor
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Greatest%20common%20divisor.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
