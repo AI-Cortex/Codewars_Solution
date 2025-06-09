@@ -4596,6 +4596,27 @@
     </td>
 </tr>
 
+<!-- 219 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        219
+    </td>
+    <td>
+        Filter the number
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/55b051fac50a3292a9000025" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Filter%20the%20number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
