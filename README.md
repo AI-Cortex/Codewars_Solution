@@ -4617,6 +4617,27 @@
     </td>
 </tr>
 
+<!-- 220 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        220
+    </td>
+    <td>
+        Reverse a Number
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Reverse%20a%20Number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
