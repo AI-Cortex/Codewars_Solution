@@ -4638,6 +4638,27 @@
     </td>
 </tr>
 
+<!-- 221 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        221
+    </td>
+    <td>
+        Sum of Triangular Numbers
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/580878d5d27b84b64c000b51" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Sum%20of%20Triangular%20Numbers.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
