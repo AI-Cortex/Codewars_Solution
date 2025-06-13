@@ -4680,6 +4680,27 @@
     </td>
 </tr>
 
+<!-- 223 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        223
+    </td>
+    <td>
+        Parts of a list
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/56f3a1e899b386da78000732" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Parts%20of%20a%20list.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
