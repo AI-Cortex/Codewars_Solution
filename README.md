@@ -4701,6 +4701,27 @@
     </td>
 </tr>
 
+<!-- 224 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        224
+    </td>
+    <td>
+        Sum of array singles
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/59f11118a5e129e591000134" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Sum%20of%20array%20singles.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
