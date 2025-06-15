@@ -4722,6 +4722,27 @@
     </td>
 </tr>
 
+<!-- 225 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        225
+    </td>
+    <td>
+        Digitize
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5417423f9e2e6c2f040002ae" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Digitize.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
