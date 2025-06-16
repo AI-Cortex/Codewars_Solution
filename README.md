@@ -4743,6 +4743,27 @@
     </td>
 </tr>
 
+<!-- 226 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        226
+    </td>
+    <td>
+        Find Count of Most Frequent Item in an Array
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/56582133c932d8239900002e" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Find%20Count%20of%20Most%20Frequent%20Item%20in%20an%20Array.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
