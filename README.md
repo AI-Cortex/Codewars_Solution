@@ -4764,6 +4764,48 @@
     </td>
 </tr>
 
+<!-- 227 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        227
+    </td>
+    <td>
+        Sum even numbers
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Sum%20even%20numbers.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 228 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        228
+    </td>
+    <td>
+        Char Code Calculation
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/57f75cc397d62fc93d000059" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Char%20Code%20Calculation.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
