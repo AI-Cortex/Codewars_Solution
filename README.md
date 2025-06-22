@@ -4806,6 +4806,27 @@
     </td>
 </tr>
 
+<!-- 229 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        229
+    </td>
+    <td>
+        Find the nth Digit of a Number
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/577b9960df78c19bca00007e" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Find%20the%20nth%20Digit%20of%20a%20Number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
