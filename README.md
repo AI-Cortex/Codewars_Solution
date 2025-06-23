@@ -4827,6 +4827,27 @@
     </td>
 </tr>
 
+<!-- 230 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        230
+    </td>
+    <td>
+        Halving Sum
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Halving%20Sum.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
