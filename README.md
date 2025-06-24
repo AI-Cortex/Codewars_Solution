@@ -4848,6 +4848,27 @@
     </td>
 </tr>
 
+<!-- 231 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        231
+    </td>
+    <td>
+        Incrementer
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/590e03aef55cab099a0002e8" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Incrementer.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
