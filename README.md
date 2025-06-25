@@ -4869,6 +4869,27 @@
     </td>
 </tr>
 
+<!-- 232 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        232
+    </td>
+    <td>
+        Going to the cinema
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/562f91ff6a8b77dfe900006e" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Going%20to%20the%20cinema.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
