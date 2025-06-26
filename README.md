@@ -4890,6 +4890,27 @@
     </td>
 </tr>
 
+<!-- 233 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        233
+    </td>
+    <td>
+        Balanced Number (Special Numbers Series #1 )
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5a4e3782880385ba68000018" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Balanced%20Number%20%28Special%20Numbers%20Series%20%231%20%29.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
