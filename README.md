@@ -4911,6 +4911,27 @@
     </td>
 </tr>
 
+<!-- 234 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        234
+    </td>
+    <td>
+        Maximum Product
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5a4138acf28b82aa43000117" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Maximum%20Product.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
