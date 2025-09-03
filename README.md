@@ -4932,6 +4932,27 @@
     </td>
 </tr>
 
+<!-- 235 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        235
+    </td>
+    <td>
+        Boiled Eggs
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/52b5247074ea613a09000164" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Boiled%20Eggs.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
