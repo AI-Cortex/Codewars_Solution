@@ -4953,6 +4953,27 @@
     </td>
 </tr>
 
+<!-- 236 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        236
+    </td>
+    <td>
+        Collect: undefined
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/59377c53e66267c8f6000027" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/Collect%20undefined.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
