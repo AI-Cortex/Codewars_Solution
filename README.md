@@ -4974,6 +4974,27 @@
     </td>
 </tr>
 
+<!-- 237 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        237
+    </td>
+    <td>
+        16+18=214
+    </td>
+    <td>
+        <a href="https://www.codewars.com/kata/5effa412233ac3002a9e471d" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/codewars_solution/blob/main/code%20c%2B%2B/16%2B18%3D214.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
